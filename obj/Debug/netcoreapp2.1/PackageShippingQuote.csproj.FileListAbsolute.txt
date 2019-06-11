@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\PackageShippingQuote\bin\Debug\netcoreapp2.1\PackageShippingQuote.deps.json
+C:\Users\ahammon3\source\repos\PackageShippingQuote\bin\Debug\netcoreapp2.1\PackageShippingQuote.runtimeconfig.json
+C:\Users\ahammon3\source\repos\PackageShippingQuote\bin\Debug\netcoreapp2.1\PackageShippingQuote.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\PackageShippingQuote\bin\Debug\netcoreapp2.1\PackageShippingQuote.dll
+C:\Users\ahammon3\source\repos\PackageShippingQuote\bin\Debug\netcoreapp2.1\PackageShippingQuote.pdb
+C:\Users\ahammon3\source\repos\PackageShippingQuote\obj\Debug\netcoreapp2.1\PackageShippingQuote.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\PackageShippingQuote\obj\Debug\netcoreapp2.1\PackageShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\PackageShippingQuote\obj\Debug\netcoreapp2.1\PackageShippingQuote.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\PackageShippingQuote\obj\Debug\netcoreapp2.1\PackageShippingQuote.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\PackageShippingQuote\obj\Debug\netcoreapp2.1\PackageShippingQuote.dll
+C:\Users\ahammon3\source\repos\PackageShippingQuote\obj\Debug\netcoreapp2.1\PackageShippingQuote.pdb
